@@ -1,6 +1,8 @@
 ---
 title: Incostudio
 date: 2021-03-17T19:31:20.591Z
+seotitle: Incostudio | To be updated
+seometadescription: to be updated
 people:
   - description: Co-founder and Design Leader of Inco studio, Jayson draws from his
       diverse background of experience in Europe and Australia. His projects
