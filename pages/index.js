@@ -5,12 +5,12 @@ import { Component } from 'react'
 import { attributes, react as HomeContent } from '../content/home.md';
 
 export default function Home() {
-  let {title, people} = attributes;
+  let {title, people, seotitle, seometadescription} = attributes;
   return (
     <div className="container">
       <Head>
         <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-        <title>Next.js Starter!</title>
+        <title>{seotitle}</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
