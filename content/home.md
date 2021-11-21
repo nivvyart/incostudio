@@ -1,8 +1,10 @@
 ---
 title: Incostudio
 date: 2021-03-17T19:31:20.591Z
-seotitle: Incostudio | To be updated
-seometadescription: to be updated
+seotitle: inco studio | interior, architecture and brand design
+seometadescription: We are a design studio that focus on design strategy,
+  architecture, interior design & branding. We create elegant and compelling
+  designs that are purposeful and evoke emotion.
 people:
   - description: Co-founder and Design Leader of Inco studio, Jayson draws from his
       diverse background of experience in Europe and Australia. His projects
