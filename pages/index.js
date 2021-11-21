@@ -9,16 +9,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
         <title>{seotitle}</title>
+        <meta name="description" content={seometadescription} />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
         <Header title={title} />
-        <p className="description">
-          Get started by editing <code>pages/index.js</code>
-        </p>
+        <HomeContent />
           <ul>
             {people.map((person, k) => (
               <li key={k}>
