@@ -7,7 +7,7 @@ import Footer from '@components/Footer'
 const ContactPage = () => {
   const ContactForm = (
     <form
-      name="contact-form"
+      name="contact"
       method="POST"
       data-netlify="true"
       action="contact/?success=true"
