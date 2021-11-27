@@ -12,7 +12,6 @@ const ContactPage = () => {
       action="contact/?success=true"
       data-netlify="true"
     >
-      <input type="hidden" name="contact-form" value="contact-form" />
       <label htmlFor="name">Name *</label>
       <input 
         id="name"
